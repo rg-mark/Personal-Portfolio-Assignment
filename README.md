@@ -1,2 +1,3 @@
 # Personal-Portfolio-Assignment
-Personal Portfolio Assignment 1: Github Setup &amp; Project Management
+Mark Rugendo
+This is a personal portfolio assignment designed to enhance the upskilling of Github use for furure projects.
